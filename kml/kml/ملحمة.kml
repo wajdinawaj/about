@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ملحمة" id="ملحمة">
+	<SimpleField name="Id" type="int"></SimpleField>
+</Schema>
+<Folder><name>ملحمة</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ملحمة">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.11637120204,31.9745832675439</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ملحمة">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.1131594105508,31.9712218215942</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

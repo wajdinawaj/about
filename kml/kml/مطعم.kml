@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="مطعم" id="مطعم">
+	<SimpleField name="Id" type="int"></SimpleField>
+</Schema>
+<Folder><name>مطعم</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#مطعم">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.1159145179126,31.974081158717</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#مطعم">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.1127351630073,31.9699693744821</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

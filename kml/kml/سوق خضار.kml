@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="_" id="_">
+	<SimpleField name="Id" type="int"></SimpleField>
+</Schema>
+<Folder><name>_</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.1159701401415,31.9737662442974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.1170117937415,31.9737785346646</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.1133661220495,31.9709761571423</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

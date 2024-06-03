@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="مداخل" id="مداخل">
+	<SimpleField name="Id" type="int"></SimpleField>
+</Schema>
+<Folder><name>مداخل</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#مداخل">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.1121937534586,31.9696483636648</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#مداخل">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.1181770410229,31.9789864611512</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#مداخل">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.1104598751172,31.9737346344225</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
